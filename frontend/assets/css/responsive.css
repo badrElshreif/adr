@@ -1,0 +1,22 @@
+/* start media query  For xxl screen: */
+
+/* strat media query for ipad pro */
+@media  (min-width: 1023px) and (max-width:1024px){
+
+}
+
+  /* start media query For ipad mini and ipad air: */
+@media (min-width: 765px) and (max-width:820px) {
+
+}
+  /*start media query  For  mobile: */
+
+/* start media for fold screen */
+@media  (min-width: 279px) and (max-width:280px){
+
+}
+
+/*
+@media (min-width: 1600px){
+
+} */

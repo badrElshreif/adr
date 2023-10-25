@@ -1,0 +1,75 @@
+<?php
+
+return [
+    'permission' => 'الصلاحية',
+    'permissions' => 'لصلاحيات',
+    'admin' => 'المدير',
+    'admins' => 'المدراء',
+    'addresses' => [
+        'title' => 'عنوان العنوان ',
+        'isPrimaryAdded' => 'تم تعيين عنوان أساسى من قبل',
+    ],
+
+    'orders' => [
+        'newOrder' => 'طلب جديد',
+        'newDeliveryOrder' => 'لديك طلب توصيل جديد ورقم الطلب ',
+        'orderGiftSent' => 'لديك هدية من صديقز برجاء فحص الطلبات',
+        'orderGiftRequested' => 'لديك هدية من  ',
+        'gift' => 'لديك هدية',
+        'refundRequestSent' => 'تم ارسال طلب استرجاع لطلبك الى الادارة',
+        'order_without_delivery' => 'لديك طلب بدون مندوب توصيل',
+        'order_without_delivery_msg' => 'لديك طلب بدون مندوب توصيل رقم ',
+    ],
+    'statuses' => [
+        'rejected' => 'مرفوض',
+        'canceled' => 'ملغى',
+        'accepted' => 'مقبول',
+    ],
+    'order_statuses' => [
+        'rejected' => 'رفض الطلب',
+        'canceled' => 'الغاء الطلب',
+        'accepted' => 'قبول الطلب',
+        'delivering' => 'جارى توصيل الطلب',
+        'delivered' => 'تم توصيل الطلب',
+        'replaced' => 'إرسال بديل للطلب',
+        'new' => 'طلب جديد',
+        'ready_for_delivery' => 'جاهز على التوصيل',
+    ],
+    'sms' => [
+        'phoneVerificationCode' => 'كود تفعيل الحساب هو ',
+
+    ],
+    'replying_to_message' => 'ردا علي رسالتك ',
+    'VerificationCode' => 'كود التفعيل',
+    'notifications' => [
+        'ar_title' => 'عنوان الإشعار ',
+        'en_title' => 'عنوان الإشعار ',
+        'ar_body' => 'محتوى الإشعار',
+        'en_body' => 'محتوى الإشعار',
+    ],
+    'newCoupon' => 'كود خصم جديد: ',
+    'newAddedCoupon' => 'تم إضافة كود خصم جديد وهو ',
+    'starting_from' => 'بدءا من ',
+    'to' => 'إلى ',
+    'forgetPassword' => 'استعادة كلمة المرور',
+    'project_name' => 'مكيفى',
+
+    'request_offer_quantity' => [
+        'accepted' => 'تم قبول عرضك',
+    ],
+    'discount' => 'خصم',
+    'sar' => 'ريال',
+    'activation_message' => 'لقد تم تفعيل حسابكم',
+    'activation_title' => 'تفعيل الحساب',
+    'account_inactive_title' => 'لقد تم تعطيل حسابكم',
+    'account_inactive_message' => 'لقد تم تعطيل حسابكم من قبل الإدارة وذلك لسبب ',
+    'thanks' => 'شكرا',
+    'accept_store' => 'تم الموافقة علي طلب انضمام المتجر ',
+    'login_data_is' => 'بيانات الدخول ',
+    'reject_store' => 'تم رفض طلب انضمامك لمتجر ',
+    'accept_title' => 'تم الموافقة علي طلب انضمامك',
+    'accept_delivery' => 'تم الموافقة علي طلب انضمامك كمندوب توصيل ',
+    'reject_title' => 'تم رفض طلب انضمامك',
+    'reject_delivery' => 'تم رفض طلب انضمامك كمندوب توصيل وذلك لسبب ',
+    'hello' => 'مرحبا',
+];

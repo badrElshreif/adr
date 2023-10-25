@@ -1,0 +1,1 @@
+[12-Oct-2022 13:11:16 UTC] PHP Fatal error:  Declaration of Maatwebsite\Excel\Cache\MemoryCache::get($key, $default = null) must be compatible with Psr\SimpleCache\CacheInterface::get(string $key, mixed $default = null): mixed in /home2/shoplo/public_html/shopLo-backend/vendor/maatwebsite/excel/src/Cache/MemoryCache.php on line 62
